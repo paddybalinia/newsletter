@@ -1,4 +1,4 @@
-# Creación de newsletter adaptativa para desktop con CSS inline
+# Newsletter adaptativo para desktop 
 
 En este proyecto, creé una newsletter adaptativa para desktop con CSS inline. La newsletter está hecha en tablas HTML para garantizar la compatibilidad con los programas de correo electrónico. El diseño se basa en CSS inline para facilitar el mantenimiento y la actualización.
 
