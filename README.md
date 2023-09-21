@@ -1,16 +1,16 @@
-# Newsletter adaptativo para desktop 
+# Adaptive newsletter for desktop
 
-En este proyecto, creé una newsletter adaptativa para desktop con CSS inline. La newsletter está hecha en tablas HTML para garantizar la compatibilidad con los programas de correo electrónico. El diseño se basa en CSS inline para facilitar el mantenimiento y la actualización.
+In this project, I created an adaptive newsletter for desktop with inline CSS. The newsletter is made in HTML tables to ensure compatibility with email programs. The design is based on inline CSS to make maintenance and updating easier.
 
-#### Objetivos:
+#### Objectives:
 
-- Utilizar tablas de HTML.
-- Crear una newsletter que sea adaptativa para desktop con los programas compatibles.
-- Utilizar CSS inline para el diseño.
+- I use HTML tables for layout.
+- I create a newsletter that is responsive for desktop with compatible programs.
+- I use inline CSS for styling.
 
-#### Requisitos:
+#### Requirements:
 
-- El newsletter debe estar hecho en tablas HTML.
-- Debe ser adaptativo para desktop con los programas compatibles, como Microsoft Outlook, Gmail, Apple Mail, etc.
-- Debe utilizar CSS inline para el diseño.
+- The newsletter must be made in HTML tables.
+- It must be responsive for desktop with compatible programs, such as Microsoft Outlook, Gmail, Apple Mail, etc.
+- It must use inline CSS for styling.
 
